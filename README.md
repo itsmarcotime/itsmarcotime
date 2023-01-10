@@ -1,4 +1,4 @@
-<div style='font-size:30px' align-text='center'>Greetings! 👋 Welcome to MataGrub! 🌌</div>
+### <div align="center">Greetings! 👋 Welcome to MataGrub! 🌌</div>
 
 [![wakatime](https://wakatime.com/badge/user/585950c0-041e-49fd-8fc9-9b2236a94f87.svg)](https://wakatime.com/@585950c0-041e-49fd-8fc9-9b2236a94f87)
 
