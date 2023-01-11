@@ -1,11 +1,12 @@
 <h2>
+
 <div align="center">Greetings! 👋 Welcome to MataGrub! 🌌</div>
+
 </h2>
 
 [![wakatime](https://wakatime.com/badge/user/585950c0-041e-49fd-8fc9-9b2236a94f87.svg)](https://wakatime.com/@585950c0-041e-49fd-8fc9-9b2236a94f87)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?itsmarcotime=anuraghazra&show_icons=true&theme=dark)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmarcotime&show_icons=true&theme=dark)
 <!--
 **itsmarcotime/itsmarcotime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
