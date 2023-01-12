@@ -12,6 +12,6 @@
 - 🥇 Life goal: **Evolve into an all knowing shu'ulathoi.**
 - 🥊 Fun fact: **I love to box!**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmarcotime&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmarcotime&show_icons=true&theme=dark)
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,py,apollo,bash,bootstrap,docker,express,firebase,flask,git,github,gitlab,jest,jquery,linkedin,discord,mongodb,mysql,nodejs,powershell,raspberrypi,react,stackoverflow,vscode)](https://skillicons.dev)
