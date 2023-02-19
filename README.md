@@ -7,6 +7,7 @@
 - 🌱 Currently expanding my knowledge in Python and Data Structures
 - 🏋 Check out my projects at **https://itsmarcotime.github.io/mataGrubPortfolioJS/**
 - 🤔 I'm definitely a curious mind. Always wondering what the next big thing is.
+- 💚 I love to build things people enjoy. Especially video games!
 - 💬 Ask me about anything! I am happy to help to the best of my ability!
 - 📫 How to reach me: **mmata3309@gmail.com**
 - 🥇 Life goal: **Evolve into an all knowing shu'ulathoi.**
