@@ -5,7 +5,7 @@
 - 🌱 Currently learning Python and testing the waters with Machine Learning.
 - 👾 Welcome to MataGrub, my portfolio **https://itsmarcotime.github.io/mataGrubPortfolio2.0/**
 - 💚 I love to build things people enjoy. Especially video games!
-- 💬 Ask me about anything! I am happy to help to the best of my ability!
+- 💬 Ask about anything! I am happy to help to the best of my ability!
 - 📫 How to reach me: **mmata3309@gmail.com**
 - 🥇 Software Developer & Full Stack Enthusiast.
 
