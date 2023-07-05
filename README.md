@@ -2,7 +2,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/585950c0-041e-49fd-8fc9-9b2236a94f87.svg)](https://wakatime.com/@585950c0-041e-49fd-8fc9-9b2236a94f87)
 
-- 🌱 Currently learning Python and testing the waters with Machine Learning.
+- 🌱 Currently learning Python and C++.
 - 👾 Welcome to MataGrub, my portfolio **https://itsmarcotime.github.io/mataGrubPortfolio2.0/**
 - 💚 I love to build things people enjoy. Especially video games!
 - 💬 Ask about anything! I am happy to help to the best of my ability!
