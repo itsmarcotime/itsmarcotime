@@ -2,7 +2,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/585950c0-041e-49fd-8fc9-9b2236a94f87.svg)](https://wakatime.com/@585950c0-041e-49fd-8fc9-9b2236a94f87)
 
-- 🌱 Currently learning Python and C++.
+- 🌱 Currently learning C++.
 - 👾 Welcome to MataGrub, my portfolio **https://itsmarcotime.github.io/mataGrubPortfolio2.0/**
 - 💚 I love to build things people enjoy. Especially video games!
 - 💬 Ask about anything! I am happy to help to the best of my ability!
@@ -11,4 +11,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=itsmarcotime&show_icons=true&theme=dark)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,apollo,bash,bootstrap,docker,express,firebase,flask,git,github,gitlab,jest,jquery,linkedin,discord,mongodb,mysql,nodejs,powershell,raspberrypi,react,stackoverflow,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,cpp,apollo,bash,bootstrap,docker,angular,nextjs,express,firebase,flask,git,github,gitlab,jest,jquery,linkedin,discord,figma,postman,mongodb,mysql,nodejs,powershell,raspberrypi,react,stackoverflow,vscode)](https://skillicons.dev)
