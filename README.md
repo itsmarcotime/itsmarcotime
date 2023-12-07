@@ -8,9 +8,9 @@
 - 📫 How to reach me: **mmata3309@gmail.com**
 - 🧙 Software Developer. 
 - 🐍 Python & MERN Stack Enthusiast.
-<br />
-<h1 align="center">The Hero and The Coward.</h1> 
-There's a difference between the coward and the hero. They both feel the same way. They are both scared and nervous. However, one lets the feelings devour them so they run and hide. The other feels the same way, but they fight those feelings off and accomplish what they set out to do.
+
+<h2 align="center">The Hero and The Coward.</h2> 
+There's a difference between the coward and the hero. They both feel the same way. They are both scared and nervous. However, one lets the feelings devour them so they run and hide. The other feels the same way, but they fight those feelings off and accomplish what they set out todo.
 <br />
 <br />
 
