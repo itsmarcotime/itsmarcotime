@@ -9,9 +9,9 @@
 - 🧙 Software Developer. 
 - 🐍 Python & MERN Stack Enthusiast.
 <br />
-"If you want a thing done well, do it yourself."
+"If you want a thing done well, do it yourself."<br />
 -Napoleon Bonaparte
-
+<br />
 <!-- <h2 align="center">The Hero and The Coward.</h2> 
 There's a difference between the coward and the hero. They both feel the same way—they are both scared and nervous. However, one lets the feelings devour them, so they run and hide. The other feels the same way, but they fight those feelings off and accomplish what they set out to do.
 <br />
