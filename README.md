@@ -9,7 +9,7 @@
 - 🧙 Software Developer. 
 - 🐍 Python & MERN Stack Enthusiast.
 
-"If you want a thing done well, do it yourself."<br />
+"Impossible is a word to be found only in the dictionary of fools."<br />
 -Napoleon Bonaparte
 <br />
 <br />
