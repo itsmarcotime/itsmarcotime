@@ -2,9 +2,9 @@
 
 [![wakatime](https://wakatime.com/badge/user/585950c0-041e-49fd-8fc9-9b2236a94f87.svg)](https://wakatime.com/@585950c0-041e-49fd-8fc9-9b2236a94f87)
 
-- 👾 Welcome to MataGrub, my portfolio **https://itsmarcotime.github.io/mataGrubPortfolio2.0/**
+- 👾 Welcome to MataGrub! Visit my portfolio: **https://itsmarcotime.github.io/mataGrubPortfolio2.0/**
 - 🌱 Currently learning C++.
-- 💬 Ask about anything! I am happy to help to the best of my ability!
+- 💬 Questions, suggestions, issues? Let me know! Happy to help to the best of my ability.
 - 📫 How to reach me: **mmata3309@gmail.com**
 - 🧙 Software Developer. 
 - 🐍 Python & MERN Stack Enthusiast.
