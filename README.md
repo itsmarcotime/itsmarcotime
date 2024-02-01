@@ -10,8 +10,8 @@
 - 🧙 Software Developer. 
 - 🐍 Python & MERN Stack Enthusiast.
 
-"Impossible is a word to be found only in the dictionary of fools."<br />
--Napoleon Bonaparte
+"Choose always the way that seems best, however rough it may be; custom will soon render it easy and agreeable."<br />
+-Pythagoras
 <br />
 <br />
 <!-- <h2 align="center">The Hero and The Coward.</h2> 
